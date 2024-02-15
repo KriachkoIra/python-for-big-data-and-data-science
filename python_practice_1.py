@@ -1,0 +1,1 @@
+print("Iryna Kriachko, Group 3, AI-2024")
